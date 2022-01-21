@@ -1,5 +1,4 @@
-# CS4040
-Design and Analysis of Algorithms
+# CS4040 - Design and Analysis of Algorithms
 
 Course Description - 
 Introduces modern study of computer algorithms. Topics include correctness of algorithms, analysis of iterative and recursive algorithms, 
